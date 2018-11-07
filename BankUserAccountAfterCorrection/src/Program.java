@@ -25,5 +25,10 @@ public class Program {
         customer01.transferMoney(customer01.bankAccount[0], customer02.bankAccount[0], amountOfMoneyToTransfer);
         customer01.printCustomerAccount();
         customer02.printCustomerAccount();
+
+
+
+
+        int k = 0;
     }
 }
